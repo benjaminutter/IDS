@@ -1,0 +1,191 @@
+[
+  {
+    "Year": 1990,
+    "Under-five mortality rate": 93.4,
+    "Infant mortality rate": 64.8,
+    "Neonatal mortality": 36.8,
+    "Above-five mortality rates": 129.6
+  },
+  {
+    "Year": 1991,
+    "Under-five mortality rate": 92.1,
+    "Infant mortality rate": 63.9,
+    "Neonatal mortality": 36.3,
+    "Above-five mortality rates": 127.8
+  },
+  {
+    "Year": 1992,
+    "Under-five mortality rate": 90.9,
+    "Infant mortality rate": 63.1,
+    "Neonatal mortality": 35.9,
+    "Above-five mortality rates": 126.2
+  },
+  {
+    "Year": 1993,
+    "Under-five mortality rate": 89.7,
+    "Infant mortality rate": 62.3,
+    "Neonatal mortality": 35.4,
+    "Above-five mortality rates": 124.6
+  },
+  {
+    "Year": 1994,
+    "Under-five mortality rate": 88.7,
+    "Infant mortality rate": 61.4,
+    "Neonatal mortality": 27.6,
+    "Above-five mortality rates": 122.8
+  },
+  {
+    "Year": 1995,
+    "Under-five mortality rate": 87.3,
+    "Infant mortality rate": 60.5,
+    "Neonatal mortality": 34.4,
+    "Above-five mortality rates": 121
+  },
+  {
+    "Year": 1996,
+    "Under-five mortality rate": 85.6,
+    "Infant mortality rate": 59.4,
+    "Neonatal mortality": 33.7,
+    "Above-five mortality rates": 118.8
+  },
+  {
+    "Year": 1997,
+    "Under-five mortality rate": 68.7,
+    "Infant mortality rate": 58.2,
+    "Neonatal mortality": 33.1,
+    "Above-five mortality rates": 116.4
+  },
+  {
+    "Year": 1998,
+    "Under-five mortality rate": 82.1,
+    "Infant mortality rate": 56.9,
+    "Neonatal mortality": 32.3,
+    "Above-five mortality rates": 113.8
+  },
+  {
+    "Year": 1999,
+    "Under-five mortality rate": 79.9,
+    "Infant mortality rate": 55.4,
+    "Neonatal mortality": 31.5,
+    "Above-five mortality rates": 110.8
+  },
+  {
+    "Year": 2000,
+    "Under-five mortality rate": 77.5,
+    "Infant mortality rate": 53.9,
+    "Neonatal mortality": 30.7,
+    "Above-five mortality rates": 107.8
+  },
+  {
+    "Year": 2001,
+    "Under-five mortality rate": 74.8,
+    "Infant mortality rate": 52.1,
+    "Neonatal mortality": 29.8,
+    "Above-five mortality rates": 104.2
+  },
+  {
+    "Year": 2002,
+    "Under-five mortality rate": 72,
+    "Infant mortality rate": 49.1,
+    "Neonatal mortality": 28.9,
+    "Above-five mortality rates": 98.2
+  },
+  {
+    "Year": 2003,
+    "Under-five mortality rate": 69.2,
+    "Infant mortality rate": 48.6,
+    "Neonatal mortality": 28,
+    "Above-five mortality rates": 97.2
+  },
+  {
+    "Year": 2004,
+    "Under-five mortality rate": 66.7,
+    "Infant mortality rate": 46.9,
+    "Neonatal mortality": 27.6,
+    "Above-five mortality rates": 93.8
+  },
+  {
+    "Year": 2005,
+    "Under-five mortality rate": 68.7,
+    "Infant mortality rate": 45.1,
+    "Neonatal mortality": 26.1,
+    "Above-five mortality rates": 90.2
+  },
+  {
+    "Year": 2006,
+    "Under-five mortality rate": 61.1,
+    "Infant mortality rate": 43.4,
+    "Neonatal mortality": 25.3,
+    "Above-five mortality rates": 86.8
+  },
+  {
+    "Year": 2007,
+    "Under-five mortality rate": 58.5,
+    "Infant mortality rate": 49.1,
+    "Neonatal mortality": 24.4,
+    "Above-five mortality rates": 98.2
+  },
+  {
+    "Year": 2008,
+    "Under-five mortality rate": 56.2,
+    "Infant mortality rate": 40.3,
+    "Neonatal mortality": 23.6,
+    "Above-five mortality rates": 80.6
+  },
+  {
+    "Year": 2009,
+    "Under-five mortality rate": 53.7,
+    "Infant mortality rate": 38.8,
+    "Neonatal mortality": 22.9,
+    "Above-five mortality rates": 77.6
+  },
+  {
+    "Year": 2010,
+    "Under-five mortality rate": 68.7,
+    "Infant mortality rate": 37.4,
+    "Neonatal mortality": 22.2,
+    "Above-five mortality rates": 74.8
+  },
+  {
+    "Year": 2011,
+    "Under-five mortality rate": 49.3,
+    "Infant mortality rate": 36,
+    "Neonatal mortality": 21.5,
+    "Above-five mortality rates": 72
+  },
+  {
+    "Year": 2012,
+    "Under-five mortality rate": 47.3,
+    "Infant mortality rate": 34.7,
+    "Neonatal mortality": 20.8,
+    "Above-five mortality rates": 69.4
+  },
+  {
+    "Year": 2013,
+    "Under-five mortality rate": 45.5,
+    "Infant mortality rate": 33.6,
+    "Neonatal mortality": 20.2,
+    "Above-five mortality rates": 67.2
+  },
+  {
+    "Year": 2014,
+    "Under-five mortality rate": 43.7,
+    "Infant mortality rate": 49.1,
+    "Neonatal mortality": 19.6,
+    "Above-five mortality rates": 98.2
+  },
+  {
+    "Year": 2015,
+    "Under-five mortality rate": 42.2,
+    "Infant mortality rate": 31.4,
+    "Neonatal mortality": 19.1,
+    "Above-five mortality rates": 62.8
+  },
+  {
+    "Year": 2016,
+    "Under-five mortality rate": 40.8,
+    "Infant mortality rate": 30.5,
+    "Neonatal mortality": 18.6,
+    "Above-five mortality rates": 61
+  }
+]
